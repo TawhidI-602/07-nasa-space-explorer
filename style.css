@@ -122,6 +122,10 @@ button:hover {
     align-items: center;
   }
 
+  input[type="date"],
+  button {
+    width: 90%;
+  }
 }
 
 .gallery {
